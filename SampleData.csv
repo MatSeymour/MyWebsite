@@ -1,0 +1,62 @@
+﻿SampleName,SampleSite,SampleType,CollectionDate,SamplingTime,VolumeOfWater
+SB.1,Saldanha Bay Yacht Club,Artificial ,14-Oct,9:30,400
+SB.2,Saldanha Bay Yacht Club,Artificial ,14-Oct,9:30,400
+SB.3,Saldanha Bay Yacht Club,Artificial ,14-Oct,9:30,400
+SY.1,"Yachtport SA, Saldanha",Artificial ,14-Oct,15:30,400
+SY.2,"Yachtport SA, Saldanha",Artificial ,14-Oct,15:30,400
+SY.3,"Yachtport SA, Saldanha",Artificial ,14-Oct,15:30,400
+SN.1,Saldanha Natural Site,Natural,15-Oct,8:30,400
+SN.2,Saldanha Natural Site,Natural,15-Oct,8:30,300
+SN.3,Saldanha Natural Site,Natural,15-Oct,8:30,400
+SM.1,Club Mykonos Marina,Artificial ,15-Oct,10:30,400
+SM.2,Club Mykonos Marina,Artificial ,15-Oct,10:30,400
+SM.3,Club Mykonos Marina,Artificial ,15-Oct,10:30,400
+TB.1,V&A Waterfront Marina,Artificial ,18-Oct,11:30,400
+TB.2,V&A Waterfront Marina,Artificial ,18-Oct,11:30,400
+TB.3,V&A Waterfront Marina,Artificial ,18-Oct,11:30,400
+HB.1,Hout Bay Yacht Club,Artificial ,19-Oct,13:00,400
+HB.2,Hout Bay Yacht Club,Artificial ,19-Oct,13:00,400
+HB.3,Hout Bay Yacht Club,Artificial ,19-Oct,13:00,400
+HN.1,Hout Bay Natural Site,Natural,19-Oct,16:30,400
+HN.1,Hout Bay Natural Site,Natural,19-Oct,16:30,400
+HN.1,Hout Bay Natural Site,Natural,19-Oct,16:30,400
+MB.1,Mossell Bay Marina,Artificial ,22-Oct,12:30,400
+MB.2,Mossell Bay Marina,Artificial ,22-Oct,12:30,400
+MB.3,Mossell Bay Marina,Artificial ,22-Oct,12:30,400
+MN.1,Mossell Bay Natural Site,Natural,22-Oct,11:00,400
+MN.2,Mossell Bay Natural Site,Natural,22-Oct,11:00,400
+MN.3,Mossell Bay Natural Site,Natural,22-Oct,11:00,400
+KN.1,Knysna Marina,Artificial ,24-Oct,10:00,400
+KN.2,Knysna Marina,Artificial ,24-Oct,10:00,400
+KN.3,Knysna Marina,Artificial ,24-Oct,10:00,400
+NK.1,Knysna Natural Site,Natural,24-Oct,13:30,400
+NK.2,Knysna Natural Site,Natural,24-Oct,13:30,400
+NK.3,Knysna Natural Site,Natural,24-Oct,13:30,400
+CN.1,Cape St Francis,Artificial ,26-Oct,11:00,400
+CN.2,Cape St Francis,Artificial ,26-Oct,11:00,400
+CN.3,Cape St Francis,Artificial ,26-Oct,11:00,400
+PE.1,Port Elizabeth,Artificial ,27-Oct,10:00,400
+PE.2,Port Elizabeth,Artificial ,27-Oct,10:00,400
+PE.3,Port Elizabeth,Artificial ,27-Oct,10:00,400
+BR.1,Bushmans River (Kenton Marina),Artificial ,30-Oct,10:00,400
+BR.2,Bushmans River (Kenton Marina),Artificial ,30-Oct,10:00,400
+BR.3,Bushmans River (Kenton Marina),Artificial ,30-Oct,10:00,400
+PA.1,Port Alfred Marina,Artificial ,31-Oct,11:30,400
+PA.2,Port Alfred Marina,Artificial ,31-Oct,11:30,400
+PA.3,Port Alfred Marina,Artificial ,31-Oct,11:30,400
+EL.1,East London Marina,Natural,02-Nov,11:00,400
+EL.2,East London Marina,Natural,02-Nov,12:00,400
+EL.3,East London Marina,Natural,02-Nov,13:00,400
+DU.1,Durban Marina,Artificial ,08-Nov,11:00,400
+DU.2,Durban Marina,Artificial ,08-Nov,11:00,400
+DU.3,Durban Marina,Artificial ,08-Nov,11:00,400
+DN.1,Durban Golf Natural,Natural,08-Nov,15:00,250
+DL.1,Durban Lagoon (La Mercy),Natural,09-Nov,8:00,400
+DL.2,Durban Lagoon (La Mercy),Natural,09-Nov,8:00,400
+DL.3,Durban Lagoon (La Mercy),Natural,09-Nov,8:00,400
+RB.1,Richards Bay Marina,Artificial ,10-Nov,11:00,400
+RB.2,Richards Bay Marina,Artificial ,10-Nov,11:00,400
+RB.3,Richards Bay Marina,Artificial ,10-Nov,11:00,400
+RN.1,Richards Bay Natural,,11-Nov,8:30,400
+RN.2,Richards Bay Natural,,11-Nov,8:30,400
+RN.3,Richards Bay Natural,,11-Nov,8:30,400
